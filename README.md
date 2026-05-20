@@ -1,4 +1,4 @@
-# Team Product Workflow Skills Lite
+# I Like My Work
 
 Lightweight skill pack for common product workflow tasks:
 
